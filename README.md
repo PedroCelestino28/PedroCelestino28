@@ -1,4 +1,4 @@
-### Lucas Leal aqui :)
+### Pedro Celestino
 Atualmente Cientista de Dados, criando aulas e conteúdos pro YouTube, Medium e outras redes. Curioso sobre programação de jogos e estudando Lua nas horas vagas.
 
 - 👨🏻‍💻 **Analista de planejamento** em uma fábrica de alimentos para organismos aquáticos na [BioArtemia](https://www.bioartemia.com.br/)

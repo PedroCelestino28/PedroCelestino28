@@ -1,6 +1,7 @@
 ### Pedro Celestino
-Atualmente Cientista de Dados, criando aulas e conteúdos pro YouTube, Medium e outras redes. Curioso sobre programação de jogos e estudando Lua nas horas vagas.
+Atualmente Analista de planejamento, trabalhando em uma fábrica de alimentos para organismos aquáticos, desenvolvendo projetos com ciência de dados para otimização de custos e aumento no volume de produção. Ja tendo prestado serviços a empresas na área de preservação ambiental, como analista e dados com enfoque na extração de dados do ERP do OMIE para análise no Power BI. Nas horas vagas aprimorando conhecimentos no SQL e em Python, como também estudando alemão e latim.
 
+- 👨🏻‍💻 **Analista de dados** na luta pela preservação ambiental de corais na [BioFabricadeCorais](https://www.biofabricadecorais.com/)
 - 👨🏻‍💻 **Analista de planejamento** em uma fábrica de alimentos para organismos aquáticos na [BioArtemia](https://www.bioartemia.com.br/)
 - 🧗🏼 Apaixonado por **lutas**
 - 🖥️ Atualmente mais focado em:

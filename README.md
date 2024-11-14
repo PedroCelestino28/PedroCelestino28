@@ -7,11 +7,7 @@ Atualmente Analista de planejamento, trabalhando em uma fábrica de alimentos pa
 - 🖥️ Atualmente mais focado em:
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
-</div> 
-<div style="display: inline">
-  &nbsp;&nbsp;<img width='50' height='50' src="![Power BI](https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg)
-";
-</div> 
+</div>
 
 
 ##

@@ -9,7 +9,7 @@ Atualmente Analista de planejamento, trabalhando em uma fábrica de alimentos pa
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
 </div> 
 <div style="display: inline">
-  &nbsp;&nbsp;<img width='50' height='50' src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://raw.githubusercontent.com/microsoft/PowerBI-Icons/24f1db8bdfab951c25db591772140d2f4ec5bc1e/SVG/Power-BI.svg)" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='50' height='50' src="SVG/Power-BI.svg";
 </div> 
 
 
